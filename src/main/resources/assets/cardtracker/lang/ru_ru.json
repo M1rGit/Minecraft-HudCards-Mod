@@ -1,0 +1,20 @@
+{
+	"key.category.cardtracker.main": "Card Tracker",
+	"key.cardtracker.editor": "Открыть/закрыть редактор карточек",
+	"key.cardtracker.toggle": "Показать/скрыть карточки",
+	"cardtracker.editor.title": "Редактор карточек",
+	"cardtracker.editor.help": "Тащить: перемещение | Колесо: размер | Клик: количество | x: удалить",
+	"cardtracker.editor.add": "Добавить карточку",
+	"cardtracker.editor.style": "Стиль",
+	"cardtracker.editor.close": "Закрыть",
+	"cardtracker.style.title": "Стиль карточек",
+	"cardtracker.style.background": "Цвет:",
+	"cardtracker.style.transparency": "Прозрачность: %s",
+	"cardtracker.style.label_size": "Размер названия: %s",
+	"cardtracker.style.counter_size": "Размер счётчика: %s",
+	"cardtracker.style.icon_size": "Размер иконки: %s",
+	"cardtracker.picker.title": "Выбор предмета",
+	"cardtracker.picker.search": "Поиск...",
+	"cardtracker.picker.empty": "Ничего не найдено",
+	"cardtracker.amount.title": "Сколько нужно?"
+}

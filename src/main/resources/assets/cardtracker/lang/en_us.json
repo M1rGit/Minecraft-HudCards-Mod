@@ -1,0 +1,20 @@
+{
+	"key.category.cardtracker.main": "Card Tracker",
+	"key.cardtracker.editor": "Open/close card editor",
+	"key.cardtracker.toggle": "Show/hide cards",
+	"cardtracker.editor.title": "Card editor",
+	"cardtracker.editor.help": "Drag: move | Wheel: size | Click: edit amount | x: delete",
+	"cardtracker.editor.add": "Add card",
+	"cardtracker.editor.style": "Style",
+	"cardtracker.editor.close": "Close",
+	"cardtracker.style.title": "Card style",
+	"cardtracker.style.background": "Color:",
+	"cardtracker.style.transparency": "Transparency: %s",
+	"cardtracker.style.label_size": "Name size: %s",
+	"cardtracker.style.counter_size": "Counter size: %s",
+	"cardtracker.style.icon_size": "Icon size: %s",
+	"cardtracker.picker.title": "Choose item",
+	"cardtracker.picker.search": "Search...",
+	"cardtracker.picker.empty": "Nothing found",
+	"cardtracker.amount.title": "How many needed?"
+}

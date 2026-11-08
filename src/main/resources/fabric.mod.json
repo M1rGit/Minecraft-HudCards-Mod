@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "cardtracker",
+	"version": "${version}",
+	"name": "Card Tracker HUD",
+	"description": "HUD overlay with have/need cards for manually tracked items.",
+	"authors": ["minotaur"],
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.minotaur.cardtracker.CardTrackerClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
