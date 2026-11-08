@@ -1,0 +1,2 @@
+# About
+A simple mod that allows you to create cards for resources required for crafting and specify the required quantity. The card can be pinned anywhere on the screen. Supports simple appearance customization.
